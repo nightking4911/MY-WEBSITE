@@ -1,0 +1,15 @@
+.dropdown-item{
+    text-align: center;
+}
+.image{
+    height: 7rem;
+    width: 7rem;
+}
+.d-block{
+    border-radius: 25%;
+}
+.man{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;    
+}
